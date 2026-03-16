@@ -1,0 +1,82 @@
+onset	duration	nwb_table	error_run	stim_run	both_visit	condition	label
+0.0256	3801.7536	epochs					
+10.487200000000001	49.5536	trials	0.0	0.0	0.0	run_right	
+60.040800000000004	78.3992	trials	0.0	0.0	0.0	run_left	
+138.44	71.77360000000002	trials	0.0	0.0	0.0	run_right	
+210.2136	102.20880000000002	trials	0.0	1.0	0.0	run_left	
+312.42240000000004	78.74079999999998	trials	0.0	1.0	0.0	run_right	
+391.1632	71.0	trials	0.0	1.0	0.0	run_left	
+462.1632	75.2519999999999	trials	0.0	0.0	0.0	run_right	
+537.4151999999999	70.1056000000001	trials	0.0	0.0	0.0	run_left	
+607.5208	70.23760000000004	trials	0.0	1.0	0.0	run_right	
+677.7584	70.93359999999996	trials	0.0	1.0	0.0	run_left	
+748.692	49.532800000000066	trials	0.0	0.0	0.0	run_right	
+798.2248000000001	193.22399999999993	trials	0.0	0.0	0.0	run_left	
+991.4488	77.57039999999995	trials	0.0	0.0	0.0	run_right	
+1069.0192	99.16880000000015	trials	0.0	1.0	0.0	run_left	
+1168.188	35.32719999999995	trials	1.0	1.0	0.0	run_left	
+1203.5152	84.47679999999991	trials	0.0	1.0	0.0	run_right	
+1287.992	179.8040000000001	trials	1.0	0.0	0.0	run_right	
+1467.796	129.11199999999985	trials	0.0	0.0	0.0	run_left	
+1596.908	199.0824	trials	1.0	1.0	0.0	run_left	
+1795.9904	197.23360000000002	trials	0.0	1.0	0.0	run_right	
+1993.224	114.18560000000002	trials	0.0	0.0	0.0	run_left	
+2107.4096	89.12960000000021	trials	1.0	0.0	0.0	run_left	
+2196.5392	115.75919999999996	trials	0.0	0.0	0.0	run_right	
+2312.2984	77.79680000000008	trials	0.0	1.0	0.0	run_left	
+2390.0952	110.05839999999989	trials	1.0	1.0	0.0	run_left	
+2500.1536	462.57519999999977	trials	1.0	1.0	0.0	run_left	
+2962.7288	158.04320000000007	trials	1.0	0.0	0.0	run_left	
+3120.772	308.2152000000001	trials	1.0	0.0	0.0	run_left	
+3428.9872	143.2511999999997	trials	1.0	1.0	0.0	run_left	
+3572.2383999999997	223.58000000000038	trials	1.0	1.0	0.0	run_left	
+3802.0	1621.0	states					awake
+5423.0	1563.0	states					nrem
+6986.0	16.0	states					transit
+7002.0	84.0	states					rem
+7086.0	806.0	states					nrem
+7892.0	18.0	states					transit
+7910.0	67.0	states					rem
+7977.0	735.0	states					nrem
+8712.0	9.0	states					transit
+8721.0	121.0	states					rem
+8842.0	573.0	states					nrem
+9415.0	1183.0	states					awake
+10598.0	589.0	states					nrem
+11187.0	8546.0	states					awake
+11194.3168	1160.2687999999998	epochs					
+12355.712	1169.9712	epochs					
+13529.8816	1134.2079999999987	epochs					
+14665.1136	1159.3727999999992	epochs					
+15825.5104	1141.7855999999992	epochs					
+16968.4224	2360.3712000000014	epochs					
+19733.0	86.0	states					quiet
+19819.0	261.0	states					awake
+20080.0	964.0	states					nrem
+21044.0	6.0	states					transit
+21050.0	29.0	states					rem
+21079.0	268.0	states					nrem
+21347.0	9.0	states					transit
+21356.0	172.0	states					rem
+21528.0	841.0	states					nrem
+22369.0	11.0	states					transit
+22380.0	159.0	states					rem
+22539.0	750.0	states					nrem
+23289.0	1328.0	states					awake
+24617.0	487.0	states					nrem
+25104.0	8.0	states					transit
+25112.0	63.0	states					rem
+25175.0	478.0	states					nrem
+25653.0	12.0	states					transit
+25665.0	30.0	states					rem
+25695.0	310.0	states					nrem
+26005.0	15.0	states					transit
+26020.0	133.0	states					rem
+26153.0	792.0	states					nrem
+26945.0	11.0	states					transit
+26956.0	23.0	states					rem
+26979.0	366.0	states					nrem
+27345.0	11.0	states					transit
+27356.0	16.0	states					rem
+27372.0	72.0	states					nrem
+27444.0	203.0	states					awake

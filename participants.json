@@ -1,0 +1,4 @@
+{
+    "participant_id": "A unique identifier for this participant.",
+    "species": "The species should be the proper Latin binomial species name from the NCBI Taxonomy (for example, Mus musculus)."
+}

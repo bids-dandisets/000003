@@ -1,0 +1,92 @@
+onset	duration	nwb_table	error_run	stim_run	both_visit	condition	label
+4.0	369.0	states					quiet
+373.0	276.0	states					awake
+649.0	175.0	states					nrem
+824.0	225.0	states					quiet
+1049.0	946.0	states					nrem
+1995.0	127.0	states					awake
+2122.0	540.0	states					nrem
+2662.0	14.0	states					transit
+2676.0	46.0	states					rem
+2722.0	578.0	states					nrem
+3300.0	1163.0	states					awake
+4463.0	293.0	states					quiet
+4756.0	1407.0	states					nrem
+6163.0	20.0	states					transit
+6183.0	102.0	states					rem
+6285.0	925.0	states					nrem
+7210.0	18.0	states					transit
+7228.0	87.0	states					rem
+7315.0	915.0	states					nrem
+8230.0	13.0	states					transit
+8243.0	41.0	states					rem
+8284.0	940.0	states					nrem
+9224.0	18.0	states					transit
+9242.0	57.0	states					rem
+9299.0	300.0	states					nrem
+9599.0	15963.0	states					awake
+9616.3072	7624.8832	epochs					
+9631.856800000001	61.87119999999777	trials	0.0	0.0	0.0	run_right	
+9693.728	283.89520000000084	trials	0.0	0.0	0.0	run_right	
+9977.6232	72.14079999999922	trials	0.0	0.0	0.0	run_right	
+10049.764	264.0648000000019	trials	0.0	0.0	0.0	run_right	
+10313.828800000001	68.29679999999826	trials	0.0	0.0	0.0	run_right	
+10382.1256	98.10000000000036	trials	0.0	0.0	0.0	run_left	
+10480.2256	62.927200000000084	trials	0.0	0.0	0.0	run_right	
+10543.1528	80.47760000000017	trials	0.0	0.0	0.0	run_left	
+10623.6304	59.93279999999868	trials	0.0	0.0	0.0	run_right	
+10683.563199999999	464.64400000000023	trials	0.0	0.0	0.0	run_right	
+11148.207199999999	119.61200000000099	trials	0.0	0.0	0.0	run_right	
+11267.8192	86.61520000000019	trials	0.0	0.0	0.0	run_left	
+11354.4344	100.16640000000007	trials	0.0	0.0	0.0	run_right	
+11454.6008	352.5072	trials	0.0	0.0	0.0	run_right	
+11807.108	111.44880000000012	trials	0.0	0.0	0.0	run_right	
+11918.5568	448.90400000000045	trials	0.0	0.0	0.0	run_right	
+12367.4608	1177.304	trials	1.0	0.0	0.0	run_right	
+13544.7648	988.8087999999989	trials	1.0	0.0	0.0	run_right	
+14533.5736	444.9792000000016	trials	1.0	0.0	0.0	run_right	
+14978.552800000001	242.5167999999976	trials	0.0	0.0	0.0	run_right	
+15221.069599999999	231.04080000000067	trials	0.0	0.0	0.0	run_left	
+15452.1104	44.770400000001246	trials	1.0	0.0	0.0	run_left	
+15496.8808	90.66560000000027	trials	0.0	0.0	0.0	run_right	
+15587.546400000001	109.3927999999978	trials	0.0	0.0	0.0	run_left	
+15696.939199999999	80.65520000000106	trials	0.0	0.0	0.0	run_right	
+15777.5944	91.91359999999986	trials	0.0	0.0	0.0	run_left	
+15869.508	267.8160000000007	trials	0.0	0.0	0.0	run_right	
+16137.324	73.96319999999832	trials	0.0	0.0	0.0	run_left	
+16211.287199999999	74.16400000000067	trials	0.0	0.0	0.0	run_right	
+16285.4512	147.00400000000081	trials	0.0	0.0	0.0	run_left	
+16432.4552	71.28240000000005	trials	1.0	0.0	0.0	run_left	
+16503.7376	52.75759999999718	trials	0.0	0.0	0.0	run_right	
+16556.495199999998	104.1704000000027	trials	1.0	0.0	0.0	run_right	
+16660.6656	157.4607999999971	trials	0.0	0.0	0.0	run_left	
+16818.126399999997	65.75760000000082	trials	0.0	0.0	0.0	run_right	
+16883.884	142.0544000000009	trials	0.0	0.0	0.0	run_left	
+17025.9384	86.94080000000031	trials	0.0	0.0	0.0	run_right	
+17112.8792	126.40640000000349	trials	0.0	0.0	0.0	run_left	
+17242.3168	1195.0591999999997	epochs					
+18438.5792	1161.4207999999999	epochs					
+19601.1264	1160.8575999999994	epochs					
+20763.008	1124.7871999999988	epochs					
+21888.8192	1203.3791999999994	epochs					
+23093.2224	2341.760000000002	epochs					
+25562.0	57.0	states					quiet
+25619.0	33.0	states					awake
+25652.0	1629.0	states					nrem
+27281.0	12.0	states					transit
+27293.0	42.0	states					rem
+27335.0	372.0	states					nrem
+27707.0	12.0	states					transit
+27719.0	42.0	states					rem
+27761.0	602.0	states					nrem
+28363.0	18.0	states					transit
+28381.0	150.0	states					rem
+28531.0	304.0	states					awake
+28835.0	893.0	states					nrem
+29728.0	42.0	states					transit
+29770.0	111.0	states					rem
+29881.0	490.0	states					awake
+30371.0	897.0	states					nrem
+31268.0	662.0	states					awake
+31930.0	737.0	states					nrem
+32667.0	9.0	states					quiet

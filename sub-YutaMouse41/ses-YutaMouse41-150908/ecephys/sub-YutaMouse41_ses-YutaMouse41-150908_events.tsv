@@ -1,0 +1,91 @@
+onset	duration	nwb_table	error_run	stim_run	both_visit	condition	label
+8.0	1094.0	states					awake
+1102.0	98.0	states					quiet
+1200.0	732.0	states					awake
+1932.0	1284.0	states					nrem
+3216.0	98.0	states					quiet
+3314.0	754.0	states					awake
+4068.0	1147.0	states					nrem
+5215.0	14.0	states					transit
+5229.0	35.0	states					rem
+5264.0	97.0	states					nrem
+5361.0	21.0	states					transit
+5382.0	92.0	states					rem
+5474.0	673.0	states					nrem
+6147.0	11832.0	states					awake
+6161.2032	2532.7872000000007	epochs					
+6182.8952	26.32880000000023	trials	0.0	0.0	0.0	run_left	
+6209.224	41.858400000000074	trials	0.0	0.0	0.0	run_right	
+6251.0824	79.50799999999981	trials	0.0	0.0	0.0	run_left	
+6330.5904	98.71839999999975	trials	0.0	0.0	0.0	run_right	
+6429.3088	76.45600000000013	trials	0.0	0.0	0.0	run_left	
+6505.7648	59.80160000000069	trials	0.0	0.0	0.0	run_right	
+6565.566400000001	61.23359999999957	trials	0.0	0.0	0.0	run_left	
+6626.8	60.98399999999947	trials	0.0	0.0	0.0	run_right	
+6687.784	71.53600000000006	trials	0.0	0.0	0.0	run_left	
+6759.32	47.143200000000434	trials	0.0	0.0	0.0	run_right	
+6806.4632	65.17280000000028	trials	0.0	0.0	0.0	run_left	
+6871.636	64.11199999999917	trials	0.0	0.0	0.0	run_right	
+6935.748	71.28960000000006	trials	0.0	0.0	0.0	run_left	
+7007.0376	58.080800000000636	trials	0.0	0.0	0.0	run_right	
+7065.1184	55.69200000000001	trials	0.0	0.0	0.0	run_left	
+7120.8104	42.01680000000033	trials	0.0	0.0	0.0	run_right	
+7162.827200000001	39.45679999999902	trials	0.0	0.0	0.0	run_left	
+7202.284	86.75040000000081	trials	0.0	0.0	0.0	run_right	
+7289.0344000000005	28.479999999999563	trials	1.0	0.0	0.0	run_right	
+7317.5144	114.60239999999976	trials	0.0	0.0	0.0	run_left	
+7432.1168	96.59040000000005	trials	0.0	0.0	0.0	run_right	
+7528.7072	45.858400000000074	trials	0.0	0.0	0.0	run_left	
+7574.5656	92.10559999999987	trials	0.0	0.0	0.0	run_right	
+7666.6712	58.98000000000047	trials	0.0	0.0	0.0	run_left	
+7725.6512	69.55279999999948	trials	0.0	0.0	0.0	run_right	
+7795.204	43.38799999999992	trials	0.0	0.0	0.0	run_left	
+7838.592	73.64720000000034	trials	0.0	0.0	0.0	run_right	
+7912.2392	39.62960000000021	trials	0.0	0.0	0.0	run_left	
+7951.8688	54.61119999999937	trials	0.0	0.0	0.0	run_right	
+8006.48	49.26080000000002	trials	0.0	0.0	0.0	run_left	
+8055.7408	45.69679999999971	trials	0.0	0.0	0.0	run_right	
+8101.437599999999	44.56080000000111	trials	0.0	0.0	0.0	run_left	
+8145.9984	47.632799999999406	trials	0.0	0.0	0.0	run_right	
+8193.6312	24.979199999999764	trials	1.0	0.0	0.0	run_right	
+8218.6104	47.54320000000007	trials	0.0	0.0	0.0	run_left	
+8266.1536	57.94239999999991	trials	0.0	0.0	0.0	run_right	
+8324.096	45.51040000000103	trials	0.0	0.0	0.0	run_left	
+8369.6064	46.69839999999931	trials	0.0	0.0	0.0	run_right	
+8416.3048	55.83439999999973	trials	0.0	0.0	0.0	run_left	
+8472.1392	99.58799999999974	trials	0.0	0.0	0.0	run_right	
+8571.7272	122.27280000000064	trials	0.0	0.0	0.0	run_left	
+8695.1168	1151.2831999999999	epochs					
+9847.424	1234.0735999999997	epochs					
+11082.6752	1157.1200000000008	epochs					
+12240.8192	1178.6751999999997	epochs					
+13420.5184	1244.3647999999994	epochs					
+14665.9072	6548.684800000001	epochs					
+17979.0	109.0	states					quiet
+18088.0	2857.0	states					awake
+20945.0	261.0	states					nrem
+21206.0	511.0	states					awake
+21717.0	1008.0	states					nrem
+22725.0	15.0	states					transit
+22740.0	43.0	states					rem
+22783.0	1131.0	states					nrem
+23914.0	15.0	states					transit
+23929.0	22.0	states					rem
+23951.0	393.0	states					nrem
+24344.0	286.0	states					awake
+24630.0	80.0	states					nrem
+24710.0	32.0	states					awake
+24742.0	424.0	states					nrem
+25166.0	9.0	states					transit
+25175.0	62.0	states					rem
+25237.0	817.0	states					nrem
+26054.0	9.0	states					transit
+26063.0	34.0	states					rem
+26097.0	536.0	states					nrem
+26633.0	12.0	states					transit
+26645.0	119.0	states					rem
+26764.0	324.0	states					awake
+27088.0	1024.0	states					nrem
+28112.0	296.0	states					awake
+28408.0	84.0	states					quiet
+28492.0	14.0	states					awake

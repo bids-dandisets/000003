@@ -1,0 +1,3593 @@
+[
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "MissingParticipantSex",
+    "title": "Missing participant sex",
+    "reason": "Archives such as DANDI or EMBER require the subject sex to be specified.",
+    "solution": "Specify the `sex` field of the Subject object attached to the NWB file as one of four options: \"M\" (for male), \"F\" (for female), \"U\" (for unknown), or \"O\" (for other).\nNOTE: for certain animal species with more specific genetic determinants, such as C elegans, use \"O\" (for other) then further specify the subtypes using other custom fields. For example, `c_elegans_sex=\"XO\"`",
+    "examples": null,
+    "field": "nwbfile.subject.sex",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "CRITICAL"
+  },
+  {
+    "identifier": "InvalidSpecies",
+    "title": "Invalid species",
+    "reason": "Participant species is not a proper Latin binomial or NCBI Taxonomy id.",
+    "solution": "Rename the subject species to a Latin binomial, obolibrary taxonomy link, or NCBI taxonomy reference.",
+    "examples": null,
+    "field": "nwbfile.subject.species",
+    "data_standards": [
+      "DANDI"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "SCHEMA_INVALIDATION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/bb8/1f7/bb81f7b3-4cfa-40e7-aa89-95beb1954d8c"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/b1c/be7/b1cbe7d9-d3b0-40ea-b53f-3429627e56f2"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/de0/967/de096722-f12a-460d-a572-354092a36e8f"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/58c/537/58c53789-eec4-4080-ad3b-207cf2a1cac9"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/191/a42/191a42b2-1245-45ee-b664-1ff160a01ba9"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/21a/d35/21ad3511-4d13-4965-a17e-e7d4a897a4e3"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/ced/b61/cedb6122-00c5-4bdc-8daf-9c6b34724004"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/581/eb6/581eb6f7-1566-44ed-8134-5f951e7732d1"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/2b3/12a/2b312a36-2c3d-4467-a658-6f352a6cdb6e"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/b2d/65d/b2d65df6-6ac3-4fd2-aaee-9269e4c18e1f"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/b31/96e/b3196ece-fbf4-4ed1-a471-e96c1c266a44"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/edb/9f7/edb9f7f8-a161-44e1-b4c4-b914717474fb"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/c86/cdf/c86cdfba-e1af-45a7-8dfd-d243adc20ced"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/672/875/6728753c-39e0-441a-9a66-a68ae164bc92"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/9cb/e6c/9cbe6cc9-9aeb-40b8-b23c-45e0078c2f14"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/4bb/039/4bb039ef-9500-4124-b927-eedf1b1d53dd"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/24c/8c4/24c8c473-5ac5-4f69-9b7a-da073a67474f"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/818/de4/818de4f1-47ec-4b14-9ae3-6ebcd64c20a7"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/18b/9a7/18b9a7e7-cdef-4c11-9944-702546a14eaa"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/66f/065/66f06587-061e-430f-8332-8fd24855a5c2"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/03c/0fa/03c0fa68-5e70-4f69-9e45-18046fe9a69d"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/2df/36a/2df36a73-92d8-4c30-96ec-c77bf5da2d47"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/b7d/1af/b7d1af71-e5a0-4436-8058-3188ba4522e6"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/be4/594/be4594ef-f0db-43b4-b4fa-823927ee3b40"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/ba1/e01/ba1e010e-fd56-424a-a26f-0d8e93e0e16c"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/632/cc3/632cc302-377d-4a92-8b1d-cffd78fcf094"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/682/405/68240595-dea7-47c7-aaff-46d6f698e6f1"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/02f/ace/02face5a-8d28-48f0-b0c6-16913e6edbdf"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/9f4/75e/9f475e45-1cf3-41f0-9375-8dd2f9861d8d"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/403/a40/403a40b0-ed6e-4225-b4d7-38cca700b8b8"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/333/649/333649c7-72b2-47f8-b52d-e6be1a0ce96c"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/fe5/bda/fe5bdade-dd30-4150-b12f-fd1dc3f728ec"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/eed/60c/eed60c6d-2c69-4226-8c3d-ab298e8cdbb2"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/f91/963/f91963cc-c757-4946-8ca0-a0351a211ecf"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/760/34a/76034a05-1e93-42e5-86f6-2da2b94383b0"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/f8b/614/f8b614be-54df-4b6d-ad47-f8b78502ed07"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/08f/cef/08fcef0e-bc73-43b9-9b14-87d1845e79c1"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/8ea/85c/8ea85c44-53d9-4645-858c-a632e4d91e7a"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/da5/d53/da5d5395-ebd1-41e9-aa10-4ee7bad0b17c"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/9d7/5f6/9d75f609-1be8-4055-be2f-6980412de120"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/303/00a/30300a11-7ea9-493a-9f42-718d263bae1c"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/5da/350/5da35095-87a7-4a4f-8c63-cfabbed46e2f"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/5e2/a92/5e2a9245-8e95-4852-aa15-79d4670806bc"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/5e0/fc8/5e0fc82e-bd09-4e13-ad4a-657d07598898"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/a59/097/a5909726-e0d7-41c3-a785-d7fe1019a041"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/241/9f0/2419f0de-f360-401c-a955-260f127a5a7c"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/ef1/c86/ef1c8675-da24-47ec-91a8-a2df0b76fbfd"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/ebb/b83/ebbb8348-d5c8-4378-aa1d-8ed7a9f4859a"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/b61/f53/b61f534b-d40c-46bd-8cfb-2b51a3eef9c2"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/73d/9c3/73d9c334-2b42-4c58-9bc7-2412a0e11c1f"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/cc5/86a/cc586a47-fbba-4019-b3a3-51566b773840"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/f55/8e8/f558e88a-7807-499e-966d-0272b9287a65"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/b26/df7/b26df741-d6e2-42bf-971e-7bba7bcf3c4f"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/199/d13/199d13b6-2a67-4275-ac66-62b445bb45de"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/dff/0f7/dff0f7e1-5b66-4d7f-a5bd-853c9faecef9"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/0f9/33c/0f933c74-115c-4436-8227-e634da3205e2"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/a44/eb1/a44eb19e-9ed4-40fa-a8d5-7f9546de9e3e"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/dee/653/dee653e9-e20d-4d0a-beac-d8d127ebf7bc"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/b9c/99c/b9c99cba-0f2b-469c-9747-22c69ac8170f"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/0e0/0e7/0e00e712-d6fb-4768-92e9-a31242775517"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/00f/cde/00fcde39-468d-4440-9bf3-56aaac0e37a7"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/d6e/96a/d6e96a4a-590f-4553-8c0b-50f47a995e75"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/31c/23b/31c23b46-78be-479d-a0da-53bf68a3e57e"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/7a6/435/7a64351b-f6e7-4471-8908-f90f2e3422de"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/ba9/88f/ba988ffa-0d3b-42a4-8d63-4aeef3727259"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/260/77c/26077cb0-7351-4e58-8e5c-b548f7d3d929"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/935/789/935789d4-3a2f-4cdf-a0f6-c7127bbcac1f"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/cf1/c32/cf1c32eb-f194-4f4d-81a6-08d5d3383b48"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/f03/18e/f0318e30-4f4f-466d-a8e9-a962863e3081"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/925/d07/925d0754-f356-4fd4-8a94-6b43fb3950d8"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/243/5e5/2435e599-66bd-4a08-b1c0-4a97335a4851"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/5fa/aa5/5faaa59c-f5a0-4868-b4fc-a310ed7e54f5"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/ee7/ff8/ee7ff804-5d2d-48eb-971b-63dfe5560ef1"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/15a/56f/15a56f01-55c3-478a-95b9-b469cf2d258c"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/37f/6a5/37f6a52c-62d3-4f7e-b9f9-bf7723fdd720"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/545/2b2/5452b2ce-c592-4931-b883-0f11fd7ad0df"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/69c/925/69c92597-2a55-4960-94b4-9251bff77a90"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/055/759/05575956-fc55-4dc2-9c3f-d01b40a9521b"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/fb1/403/fb1403f4-88f1-4d37-bcbb-bc9d0b4e7d61"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/d76/dd5/d76dd51f-ac2d-4493-9fd0-2c16a3f00462"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/fa9/bc1/fa9bc105-8cc6-4acb-a34e-e8742336b42c"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/231/fd0/231fd060-f63d-449e-9088-7cb7d7f329bd"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/9cb/648/9cb648be-db55-4c14-bb3d-78ef0d42bb09"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/7ad/5ff/7ad5ffa4-bcc8-49da-a49e-d874524aa2b1"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/358/217/35821717-2382-45f2-a87b-f1bb3f7f83f3"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/ad7/bc3/ad7bc3a4-f594-4df3-89ab-20a1bee74963"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/550/4e1/5504e139-19ce-4de6-a6e0-e5f99a290169"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/f95/832/f9583287-ffd5-4d3b-874d-4ec292068c97"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/1f1/cdc/1f1cdc77-41fb-493c-98cd-670613e75bf5"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/d91/317/d913173a-1ae1-4b60-9605-ec0d446a4502"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/5e9/b0e/5e9b0e8a-34d5-477e-bb26-f17e752f3ee0"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/24e/0dc/24e0dc84-f9b3-4e0b-babb-0f22cf065ea2"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "InvalidSessionID",
+    "title": "Invalid session ID",
+    "reason": "The session ID contains invalid characters. BIDS allows only the plus sign to be used as a separator in the subject entity label. Underscores, dashes, spaces, slashes, and other special characters (including #) are expressly forbidden.",
+    "solution": "Rename the session without using any special characters except for `+`.",
+    "examples": [
+      "`ses_01` -> `ses+01`",
+      "`session #2` -> `session+2`",
+      "`id 2 from 9/1/25` -> `id+2+9+1+25`"
+    ],
+    "field": "nwbfile.session_id",
+    "data_standards": [
+      "BIDS",
+      "DANDI"
+    ],
+    "source_file_paths": [
+      "https://dandiarchive.s3.amazonaws.com/blobs/88e/7bb/88e7bbf0-aafd-4d41-9950-10324f487f15"
+    ],
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "ERROR"
+  },
+  {
+    "identifier": "MissingDescription",
+    "title": "Missing description",
+    "reason": "A basic description of this field is recommended to improve contextual understanding.",
+    "solution": "Add a description to the field.",
+    "examples": null,
+    "field": "nwbfile.devices.DeviceWithoutDescription",
+    "data_standards": [
+      "NWB"
+    ],
+    "source_file_paths": null,
+    "target_file_paths": null,
+    "category": "STYLE_SUGGESTION",
+    "severity": "INFO"
+  }
+]

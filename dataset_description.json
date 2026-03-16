@@ -1,0 +1,21 @@
+{
+    "Name": "Physiological Properties and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Data from \"Physiological Properties and Behavioral Correlates of Hippocampal Granule Cells and Mossy Cells\" Senzai, Buzsaki, Neuron 2017. Electrophysiology recordings of hippocampus during theta maze exploration.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Senzai, Yuta",
+        "Fernandez-Ruiz, Antonio",
+        "Buzs\u00e1ki, Gy\u00f6rgy"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.9.1.dev27+gf0fb7253c",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}

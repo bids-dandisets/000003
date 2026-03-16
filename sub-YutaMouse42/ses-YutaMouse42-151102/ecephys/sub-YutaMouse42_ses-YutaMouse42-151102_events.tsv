@@ -1,0 +1,148 @@
+onset	duration	nwb_table	error_run	stim_run	both_visit	condition	label
+0.0	29163.6184	trials	0.0	1.0	0.0	run_right	
+0.0	28907.556	trials	0.0	1.0	0.0	run_right	
+0.0	9259.1704	trials	0.0	0.0	0.0	run_left	
+0.0	7798.642400000001	trials	0.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+0.0	0.0	trials	1.0	0.0	0.0	run_left	
+0.0	0.0	trials	1.0	0.0	0.0	run_right	
+3.0	324.0	states					awake
+327.0	334.0	states					quiet
+661.0	661.0	states					awake
+1322.0	834.0	states					nrem
+2156.0	15.0	states					transit
+2171.0	127.0	states					rem
+2298.0	809.0	states					nrem
+3107.0	22.0	states					transit
+3129.0	209.0	states					rem
+3338.0	1105.0	states					nrem
+4443.0	94.0	states					quiet
+4537.0	1191.0	states					nrem
+5728.0	87.0	states					quiet
+5815.0	62.0	states					awake
+5877.0	64.0	states					nrem
+5941.0	87.0	states					awake
+6028.0	89.0	states					nrem
+6117.0	218.0	states					awake
+6335.0	433.0	states					nrem
+6768.0	11927.0	states					awake
+7603.8144	2591.8720000000003	epochs					
+7798.642400000001	-7798.642400000001	trials	1.0	0.0	0.0	run_left	
+9259.1704	-9259.1704	trials	1.0	0.0	0.0	run_right	
+10196.9664	2608.3328	epochs					
+12806.3232	1155.1743999999999	epochs					
+13962.5216	1785.3696	epochs					
+15748.9152	1340.2623999999996	epochs					
+18695.0	87.0	states					quiet
+18782.0	413.0	states					awake
+19195.0	621.0	states					nrem
+19816.0	13.0	states					transit
+19829.0	115.0	states					rem
+19944.0	1321.0	states					nrem
+21265.0	1092.0	states					awake
+22357.0	611.0	states					nrem
+22968.0	12.0	states					transit
+22980.0	92.0	states					rem
+23072.0	479.0	states					nrem
+23551.0	89.0	states					awake
+23640.0	288.0	states					nrem
+23928.0	12.0	states					transit
+23940.0	149.0	states					rem
+24089.0	187.0	states					awake
+24276.0	890.0	states					nrem
+25166.0	38.0	states					quiet
+25204.0	271.0	states					nrem
+25475.0	5.0	states					quiet
+28662.5024	1537.177599999999	epochs					
+28907.556	-28907.556	trials	1.0	0.0	0.0	run_left	
+29163.6184	-29163.6184	trials	1.0	0.0	0.0	run_left	

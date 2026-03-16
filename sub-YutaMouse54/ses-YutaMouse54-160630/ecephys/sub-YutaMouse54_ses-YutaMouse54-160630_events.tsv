@@ -1,0 +1,6 @@
+onset	duration	nwb_table	label
+23443.0	271.0	states	nrem
+23714.0	24.0	states	transit
+23738.0	164.0	states	rem
+23902.0	1036.0	states	nrem
+24938.0	5057.0	states	awake

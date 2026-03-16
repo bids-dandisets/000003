@@ -1,0 +1,27 @@
+onset	duration	nwb_table	label
+6.0	1750.0	states	awake
+1756.0	748.0	states	nrem
+2504.0	9.0	states	transit
+2513.0	21.0	states	rem
+2534.0	271.0	states	nrem
+2805.0	13.0	states	transit
+2818.0	4.0	states	nrem
+2822.0	80.0	states	rem
+2902.0	1127.0	states	nrem
+4029.0	6.0	states	transit
+4035.0	85.0	states	rem
+4120.0	542.0	states	nrem
+4662.0	9.0	states	transit
+4671.0	184.0	states	rem
+4855.0	1117.0	states	nrem
+5972.0	11.0	states	transit
+5983.0	117.0	states	rem
+6100.0	865.0	states	nrem
+6965.0	13.0	states	transit
+6978.0	21.0	states	nrem
+6999.0	170.0	states	rem
+7169.0	31.0	states	nrem
+23445.0	4898.0	states	awake
+24501.6576	934.4256000000023	epochs	
+25437.2352	953.5488000000005	epochs	
+26391.808	917.3760000000002	epochs	

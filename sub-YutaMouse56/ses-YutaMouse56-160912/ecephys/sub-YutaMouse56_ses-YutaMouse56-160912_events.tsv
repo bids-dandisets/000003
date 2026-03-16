@@ -1,0 +1,21 @@
+onset	duration	nwb_table	label
+0.0	2046.0	states	awake
+2046.0	111.0	states	nrem
+2157.0	162.0	states	quiet
+2319.0	119.0	states	awake
+2438.0	1711.0	states	nrem
+4149.0	18.0	states	transit
+4167.0	137.0	states	rem
+4304.0	783.0	states	nrem
+5087.0	10.0	states	transit
+5097.0	98.0	states	rem
+5195.0	979.0	states	nrem
+6174.0	45.0	states	quiet
+6219.0	160.0	states	nrem
+6379.0	14.0	states	transit
+6393.0	98.0	states	rem
+6491.0	709.0	states	nrem
+22968.0	6781.0	states	awake
+22969.4464	1088.6399999999994	epochs	
+24404.992	1111.6032000000014	epochs	
+26488.32	1039.8719999999994	epochs	

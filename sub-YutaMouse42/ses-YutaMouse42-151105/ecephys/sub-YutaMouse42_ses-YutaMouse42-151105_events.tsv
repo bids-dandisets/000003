@@ -1,0 +1,56 @@
+onset	duration	nwb_table	error_run	stim_run	both_visit	condition	label
+7.0	24.0	states					awake
+31.0	179.0	states					quiet
+210.0	765.0	states					nrem
+975.0	10.0	states					transit
+985.0	34.0	states					rem
+1019.0	393.0	states					nrem
+1412.0	17.0	states					transit
+1429.0	70.0	states					rem
+1499.0	206.0	states					nrem
+1705.0	29.0	states					transit
+1734.0	84.0	states					rem
+1818.0	479.0	states					nrem
+2297.0	21.0	states					transit
+2318.0	66.0	states					rem
+2384.0	459.0	states					nrem
+2843.0	14.0	states					transit
+2857.0	44.0	states					rem
+2901.0	526.0	states					nrem
+3427.0	29.0	states					transit
+3456.0	122.0	states					rem
+3578.0	515.0	states					nrem
+4093.0	38.0	states					transit
+4131.0	163.0	states					rem
+4294.0	66.0	states					nrem
+4360.0	179.0	states					awake
+4539.0	382.0	states					quiet
+4921.0	383.0	states					awake
+5304.0	210.0	states					quiet
+5514.0	842.0	states					nrem
+6356.0	17.0	states					transit
+6373.0	58.0	states					rem
+6431.0	483.0	states					nrem
+6914.0	21.0	states					transit
+6935.0	54.0	states					rem
+6989.0	326.0	states					nrem
+7315.0	3482.0	states					awake
+7327.104	3470.079999999999	epochs					
+7337.588	147.08479999999963	trials	0.0	0.0	0.0	run_right	
+7484.672799999999	162.34479999999985	trials	0.0	0.0	0.0	run_left	
+7647.017599999999	59.304800000000796	trials	0.0	0.0	0.0	run_right	
+7706.3224	61.73279999999977	trials	0.0	0.0	0.0	run_left	
+7768.0552	57.58880000000045	trials	0.0	0.0	0.0	run_right	
+7825.644	54.23199999999997	trials	0.0	0.0	0.0	run_left	
+7879.876	23.606400000000576	trials	1.0	0.0	0.0	run_left	
+7903.482400000001	75.14399999999932	trials	0.0	0.0	0.0	run_right	
+7978.6264	66.30479999999989	trials	0.0	0.0	0.0	run_left	
+8044.9312	31.67200000000048	trials	1.0	0.0	0.0	run_left	
+8076.6032000000005	66.26800000000003	trials	0.0	0.0	0.0	run_right	
+8142.8712000000005	111.89839999999913	trials	0.0	0.0	0.0	run_left	
+8254.7696	47.427999999999884	trials	1.0	0.0	0.0	run_left	
+8302.1976	88.09200000000055	trials	0.0	0.0	0.0	run_right	
+8390.2896	257.1728000000003	trials	0.0	0.0	0.0	run_left	
+8647.4624	552.6023999999998	trials	0.0	0.0	0.0	run_right	
+9200.0648	996.5776000000005	trials	1.0	0.0	0.0	run_right	
+10196.6424	600.5576000000001	trials	1.0	0.0	0.0	run_right	

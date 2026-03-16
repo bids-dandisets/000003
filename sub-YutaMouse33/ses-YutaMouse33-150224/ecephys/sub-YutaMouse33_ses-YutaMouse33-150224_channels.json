@@ -1,0 +1,18 @@
+{
+    "name": {
+        "LongName": "Channel name",
+        "Description": "Label of the channel."
+    },
+    "units": {
+        "LongName": "Units",
+        "Description": "Physical unit of the value represented in this channel, for example, V for Volt, or fT/cm for femto Tesla per centimeter (see Units)."
+    },
+    "electrode_name": {
+        "LongName": "Electrode name",
+        "Description": "Name of the electrode contact point. The value MUST match a name entry in the corresponding *_electrodes.tsv file, linking this channel to its associated electrode contact point. For channels not associated with an electrode, use n/a."
+    },
+    "type": {
+        "LongName": "Type",
+        "Description": "Type of channel; MUST use the channel types listed below. Note that the type MUST be in upper-case."
+    }
+}

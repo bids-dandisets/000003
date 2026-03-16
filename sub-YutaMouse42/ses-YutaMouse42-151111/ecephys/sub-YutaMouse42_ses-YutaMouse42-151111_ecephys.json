@@ -1,0 +1,10 @@
+{
+    "InstitutionName": "NYU",
+    "PowerLineFrequency": "n/a",
+    "SamplingFrequency": 20000.0,
+    "RecordingDuration": 30856.8,
+    "SoftwareFilters": "n/a",
+    "HardwareFilters": "n/a",
+    "BodyPart": "BRAIN",
+    "BodyPartDetails": "unknown"
+}

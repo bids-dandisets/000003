@@ -1,0 +1,14 @@
+{
+    "probe_name": {
+        "LongName": "Probe name",
+        "Description": "A unique identifier of the probe, can be identical with the device_serial_number."
+    },
+    "type": {
+        "LongName": "Type",
+        "Description": "The type of the probe."
+    },
+    "description": {
+        "Description": "Probe description from NWB file.",
+        "LongName": "Description"
+    }
+}

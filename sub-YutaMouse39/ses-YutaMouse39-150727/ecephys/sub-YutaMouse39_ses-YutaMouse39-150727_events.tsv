@@ -1,0 +1,68 @@
+onset	duration	nwb_table	error_run	stim_run	both_visit	condition	label
+0.0256	682.752	epochs					
+2.0	700.0	states					awake
+15.7256	41.9352	trials	0.0	0.0	0.0	run_right	
+57.6608	96.6096	trials	0.0	0.0	0.0	run_left	
+154.2704	59.65199999999999	trials	0.0	0.0	0.0	run_right	
+213.92239999999998	78.61040000000003	trials	0.0	0.0	0.0	run_left	
+292.5328	96.15519999999998	trials	0.0	0.0	0.0	run_right	
+388.688	51.0976	trials	0.0	0.0	0.0	run_left	
+439.7856	66.52080000000001	trials	0.0	0.0	0.0	run_right	
+506.3064	65.9744	trials	0.0	0.0	0.0	run_left	
+572.2808	68.59039999999993	trials	0.0	0.0	0.0	run_right	
+640.8711999999999	41.928800000000024	trials	0.0	0.0	0.0	run_left	
+702.0	186.0	states					quiet
+888.0	59.0	states					awake
+947.0	90.0	states					quiet
+1037.0	11.0	states					awake
+1048.0	118.0	states					quiet
+1166.0	746.0	states					awake
+1912.0	48.0	states					quiet
+1960.0	18.0	states					awake
+1978.0	34.0	states					quiet
+2012.0	371.0	states					awake
+2383.0	223.0	states					nrem
+2606.0	109.0	states					awake
+2715.0	93.0	states					nrem
+2808.0	80.0	states					awake
+2888.0	623.0	states					nrem
+3511.0	3230.0	states					awake
+6741.0	660.0	states					nrem
+7401.0	838.0	states					awake
+8239.0	489.0	states					nrem
+8728.0	11202.0	states					awake
+8747.2128	1401.676800000001	epochs					
+10149.9136	1292.9791999999998	epochs					
+11444.0192	1447.0656	epochs					
+12892.1088	1376.4863999999998	epochs					
+14269.7984	4363.0592	epochs					
+19930.0	678.0	states					quiet
+20608.0	246.0	states					awake
+20854.0	165.0	states					nrem
+21019.0	299.0	states					awake
+21318.0	197.0	states					nrem
+21515.0	330.0	states					awake
+21845.0	888.0	states					nrem
+22733.0	365.0	states					awake
+23098.0	558.0	states					nrem
+23656.0	17.0	states					transit
+23673.0	151.0	states					rem
+23824.0	1072.0	states					nrem
+24896.0	19.0	states					transit
+24915.0	46.0	states					rem
+24961.0	489.0	states					nrem
+25450.0	247.0	states					awake
+33419.8016	2404.480000000003	epochs					
+33443.3248	141.09919999999693	trials	0.0	0.0	0.0	run_right	
+33584.424	111.97200000000157	trials	0.0	0.0	0.0	run_left	
+33696.396	69.71519999999873	trials	0.0	0.0	0.0	run_right	
+33766.1112	61.119200000001	trials	0.0	0.0	0.0	run_left	
+33827.2304	91.01120000000083	trials	0.0	0.0	0.0	run_right	
+33918.2416	70.73679999999877	trials	0.0	0.0	0.0	run_left	
+33988.9784	84.95599999999831	trials	0.0	0.0	0.0	run_right	
+34073.9344	228.0783999999985	trials	1.0	0.0	0.0	run_left	
+34302.0128	185.25600000000122	trials	1.0	0.0	0.0	run_right	
+34487.2688	306.93840000000637	trials	1.0	0.0	0.0	run_left	
+34794.207200000004	193.48719999999594	trials	1.0	1.0	0.0	run_left	
+34987.6944	297.1840000000011	trials	1.0	1.0	0.0	run_left	
+35284.8784	539.4216000000015	trials	1.0	1.0	0.0	run_left	

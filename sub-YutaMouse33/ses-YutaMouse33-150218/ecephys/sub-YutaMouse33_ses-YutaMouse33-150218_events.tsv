@@ -1,0 +1,51 @@
+onset	duration	nwb_table	error_run	stim_run	both_visit	condition	label
+0.0	529.0	states					awake
+529.0	1253.0	states					nrem
+1782.0	58.0	states					transit
+1840.0	143.0	states					rem
+1983.0	2540.0	states					nrem
+4523.0	26.0	states					transit
+4549.0	156.0	states					rem
+4705.0	2549.0	states					nrem
+7254.0	48.0	states					transit
+7302.0	232.0	states					rem
+7534.0	1466.0	states					nrem
+32627.6	124.26758	trials	0.0	0.0	0.0	run_right	
+32627.61	2421.375	epochs					EightMazePosition_0
+32751.867	35.83203	trials	0.0	0.0	0.0	run_left	
+32787.7	63.48047	trials	0.0	0.0	0.0	run_right	
+32851.18	32.507812	trials	0.0	0.0	0.0	run_left	
+32883.688	42.441406	trials	0.0	0.0	0.0	run_right	
+32926.13	35.621094	trials	0.0	0.0	0.0	run_left	
+32961.75	62.07422	trials	0.0	0.0	0.0	run_right	
+33023.824	38.628906	trials	0.0	0.0	0.0	run_left	
+33062.453	27.257812	trials	1.0	0.0	0.0	run_left	
+33089.71	43.617188	trials	0.0	0.0	0.0	run_right	
+33133.33	29.738281	trials	1.0	0.0	0.0	run_right	
+33163.066	35.70703	trials	0.0	1.0	0.0	run_left	
+33198.773	32.953125	trials	1.0	1.0	0.0	run_left	
+33231.727	113.62891	trials	0.0	1.0	0.0	run_right	
+33345.355	52.402344	trials	1.0	1.0	0.0	run_right	
+33397.758	42.117188	trials	0.0	1.0	0.0	run_left	
+33439.875	78.46094	trials	0.0	1.0	0.0	run_right	
+33518.336	58.648438	trials	0.0	1.0	0.0	run_left	
+33576.984	45.507812	trials	0.0	1.0	0.0	run_right	
+33622.492	36.128906	trials	0.0	1.0	0.0	run_left	
+33658.62	66.046875	trials	0.0	1.0	0.0	run_right	
+33724.668	35.753906	trials	0.0	0.0	0.0	run_left	
+33760.42	26.820312	trials	0.0	0.0	0.0	run_right	
+33787.242	40.82422	trials	0.0	0.0	0.0	run_left	
+33828.066	23.082031	trials	1.0	0.0	0.0	run_left	
+33851.15	29.339844	trials	0.0	0.0	0.0	run_right	
+33880.49	138.59375	trials	0.0	0.0	0.0	run_left	
+34019.082	31.457031	trials	0.0	0.0	0.0	run_right	
+34050.54	44.6875	trials	0.0	0.0	0.0	run_left	
+34095.227	44.4375	trials	0.0	0.0	0.0	run_right	
+34139.664	114.66797	trials	0.0	0.0	0.0	run_left	
+34254.332	449.5664	trials	0.0	0.0	0.0	run_right	
+34703.9	345.10156	trials	1.0	1.0	0.0	run_right	
+35049.0	6060.0	states					awake
+35050.137	1583.6406	epochs					OpenFieldPosition_Old_0
+36634.805	1335.8828	epochs					OpenFieldPosition_Old_Curtain_0
+37971.71	1216.5625	epochs					OpenFieldPosition_New_Curtain_0
+39189.324	1959.7578	epochs					OpenFieldPosition_New_0
