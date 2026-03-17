@@ -2,7 +2,7 @@
 		SourceDatasets
 		/dataset_description.json - Field description: Used to specify the locations and relevant attributes of all source datasets (BIDS or not).
 Valid keys in each object include `"URL"`, `"DOI"` (see
-[URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)), and
+[URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)), and
 `"Version"` with
 [string](https://www.w3schools.com/js/js_json_datatypes.asp)
 values.
@@ -232,11 +232,11 @@ For example `"TaskName"` `"faces n-back"` or `"head nodding"` could correspond t
 		99 more files with the same issue
 
 		CogAtlasID
-		/sub-YutaMouse38/ses-YutaMouse38+150709/ecephys/sub-YutaMouse38_ses-YutaMouse38+150709_ecephys.nwb - Field description: [URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)
+		/sub-YutaMouse38/ses-YutaMouse38+150709/ecephys/sub-YutaMouse38_ses-YutaMouse38+150709_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
 Task term.
 
-		/sub-YutaMouse44/ses-YutaMouse44+151129/ecephys/sub-YutaMouse44_ses-YutaMouse44+151129_ecephys.nwb - Field description: [URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)
+		/sub-YutaMouse44/ses-YutaMouse44+151129/ecephys/sub-YutaMouse44_ses-YutaMouse44+151129_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [Cognitive Atlas](https://www.cognitiveatlas.org/)
 Task term.
 
@@ -244,10 +244,10 @@ Task term.
 		99 more files with the same issue
 
 		CogPOID
-		/sub-YutaMouse38/ses-YutaMouse38+150709/ecephys/sub-YutaMouse38_ses-YutaMouse38+150709_ecephys.nwb - Field description: [URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)
+		/sub-YutaMouse38/ses-YutaMouse38+150709/ecephys/sub-YutaMouse38_ses-YutaMouse38+150709_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [CogPO](http://www.cogpo.org/) term.
 
-		/sub-YutaMouse44/ses-YutaMouse44+151129/ecephys/sub-YutaMouse44_ses-YutaMouse44+151129_ecephys.nwb - Field description: [URI](https://bids-specification.readthedocs.io/en/stable/common-principles.md#uniform-resource-indicator)
+		/sub-YutaMouse44/ses-YutaMouse44+151129/ecephys/sub-YutaMouse44_ses-YutaMouse44+151129_ecephys.nwb - Field description: [URI](SPEC_ROOT/common-principles.md#uniform-resource-indicator)
 of the corresponding [CogPO](http://www.cogpo.org/) term.
 
 
@@ -327,3 +327,4 @@ regardless of their type (for example, `2400`).
           1045 Files, 1.47 MB                                         microephys           
           16 - Subjects 101 - Sessions                                                     
 
+	If you have any questions, please post on https://neurostars.org/tags/bids.
