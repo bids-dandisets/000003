@@ -4,7 +4,5 @@
     "SamplingFrequency": 20000.0,
     "RecordingDuration": 30681.4,
     "SoftwareFilters": "n/a",
-    "HardwareFilters": "n/a",
-    "BodyPart": "BRAIN",
-    "BodyPartDetails": "unknown"
+    "HardwareFilters": "n/a"
 }

@@ -1,7 +1,7 @@
 {
     "InstitutionName": "NYU",
     "PowerLineFrequency": "n/a",
-    "SamplingFrequency": "n/a",
+    "SamplingFrequency": -1.0,
     "SoftwareFilters": "n/a",
     "HardwareFilters": "n/a"
 }
