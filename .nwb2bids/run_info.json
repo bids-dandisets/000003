@@ -1,6 +1,6 @@
 {
-  "nwb2bids_version": "v0.11.1-34-g51efa17",
-  "nwb2bids_branch": "ephys_support",
+  "nwb2bids_version": "v0.12.0-4-gc93cee1",
+  "nwb2bids_branch": "main",
   "limit": null,
   "sessions_converted": 101,
   "total_sessions": 101

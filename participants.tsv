@@ -1,17 +1,17 @@
-participant_id	species
-sub-YutaMouse20	Mus musculus
-sub-YutaMouse23	Mus musculus
-sub-YutaMouse33	mouse, Mus musculus
-sub-YutaMouse37	Mus musculus
-sub-YutaMouse38	Mus musculus
-sub-YutaMouse39	Mus musculus
-sub-YutaMouse40	Mus musculus
-sub-YutaMouse41	Mus musculus
-sub-YutaMouse42	Mus musculus
-sub-YutaMouse44	Mus musculus
-sub-YutaMouse45	Mus musculus
-sub-YutaMouse51	Mus musculus
-sub-YutaMouse54	Mus musculus
-sub-YutaMouse55	Mus musculus
-sub-YutaMouse56	Mus musculus
-sub-YutaMouse57	Mus musculus
+participant_id	original_participant_id	species
+sub-YutaMouse20	sub-YutaMouse20	Mus musculus
+sub-YutaMouse23	sub-YutaMouse23	Mus musculus
+sub-YutaMouse33	sub-YutaMouse33	mouse, Mus musculus
+sub-YutaMouse37	sub-YutaMouse37	Mus musculus
+sub-YutaMouse38	sub-YutaMouse38	Mus musculus
+sub-YutaMouse39	sub-YutaMouse39	Mus musculus
+sub-YutaMouse40	sub-YutaMouse40	Mus musculus
+sub-YutaMouse41	sub-YutaMouse41	Mus musculus
+sub-YutaMouse42	sub-YutaMouse42	Mus musculus
+sub-YutaMouse44	sub-YutaMouse44	Mus musculus
+sub-YutaMouse45	sub-YutaMouse45	Mus musculus
+sub-YutaMouse51	sub-YutaMouse51	Mus musculus
+sub-YutaMouse54	sub-YutaMouse54	Mus musculus
+sub-YutaMouse55	sub-YutaMouse55	Mus musculus
+sub-YutaMouse56	sub-YutaMouse56	Mus musculus
+sub-YutaMouse57	sub-YutaMouse57	Mus musculus
