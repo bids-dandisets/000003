@@ -1,8 +1,4 @@
 {
-    "electrode_name": {
-        "LongName": "Electrode name",
-        "Description": "Name of the electrode contact point. The value MUST match a name entry in the corresponding *_electrodes.tsv file, linking this channel to its associated electrode contact point. For channels not associated with an electrode, use n/a."
-    },
     "type": {
         "LongName": "Type",
         "Description": "Type of channel; MUST use the channel types listed below. Note that the type MUST be in upper-case."
@@ -14,6 +10,10 @@
     "name": {
         "LongName": "Channel name",
         "Description": "Label of the channel."
+    },
+    "electrode_name": {
+        "LongName": "Electrode name",
+        "Description": "Name of the electrode contact point. The value MUST match a name entry in the corresponding *_electrodes.tsv file, linking this channel to its associated electrode contact point. For channels not associated with an electrode, use n/a."
     },
     "sampling_frequency": {
         "LongName": "Sampling frequency",
