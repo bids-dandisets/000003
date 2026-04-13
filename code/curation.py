@@ -30,8 +30,8 @@ def _run(dataset_dir: pathlib.Path) -> None:
     }
 
     local_paths_with_corrected_values = {
-        dandipath: _scrub_tsv_of_line_with_value(
-            tsv_lines=dandipaths_to_local_paths[dandipath].read_text().splitlines(), identifying_value=identifying_value
+        (path := dandipaths_to_local_paths[dandipath]): _scrub_tsv_of_line_with_value(
+            tsv_lines=path.read_text().splitlines(), identifying_value=identifying_value
         )
         for dandipath, identifying_value in dandipaths_with_values_to_fix.items()
     }
