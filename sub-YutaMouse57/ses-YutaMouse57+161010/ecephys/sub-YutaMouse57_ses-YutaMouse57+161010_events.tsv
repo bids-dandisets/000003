@@ -57,7 +57,6 @@ onset	duration	nwb_table	error_run	stim_run	both_visit	condition	label
 10866.552800000001	186.264799999999	trials	0.0	0.0	0.0	run_right	
 11052.8176	144.41599999999926	trials	1.0	0.0	0.0	run_right	
 11197.2336	278.22400000000016	trials	1.0	0.0	0.0	run_right	
-11475.4576	-1596.0487999999987	trials	1.0	0.0	0.0	run_right	
 12111.4432	71.17920000000049	trials	0.0	0.0	0.0	run_right	
 12182.6224	108.39999999999964	trials	0.0	0.0	0.0	run_left	
 12291.0224	69.58879999999954	trials	0.0	0.0	0.0	run_right	
