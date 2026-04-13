@@ -35,11 +35,9 @@ def _run(dataset_dir: pathlib.Path) -> None:
         )
         for dandipath, identifying_value in dandipaths_with_values_to_fix.items()
     }
-    
+
     for path, corrected_lines in local_paths_with_corrected_values.items():
         path.write_text("\n".join(corrected_lines))
-
-    a = 1
 
 
 if __name__ == '__main__':
