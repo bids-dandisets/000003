@@ -87,12 +87,6 @@ the stimuli during the experiment.
 
 [36m	Please visit https://neurostars.org/search?q=SIDECAR_KEY_RECOMMENDED for existing conversations about this issue.[39m
 
-	[31m[ERROR] TSV_VALUE_INCORRECT_TYPE A value in a column did not match the acceptable type for that column headers specified format.[39m
-		[31mduration[39m
-		/sub-YutaMouse42/ses-YutaMouse42+151102/ecephys/sub-YutaMouse42_ses-YutaMouse42+151102_events.tsv - '-9259.1704'
-
-[36m	Please visit https://neurostars.org/search?q=TSV_VALUE_INCORRECT_TYPE for existing conversations about this issue.[39m
-
 
           [35mSummary:[39m                            [35mAvailable Tasks:[39m        [35mAvailable Modalities:[39m
           1045 Files, 1.48 MB                                         microephys           
