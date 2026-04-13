@@ -117,7 +117,6 @@ onset	duration	nwb_table	error_run	stim_run	both_visit	condition	label
 6335.0	433.0	states					nrem
 6768.0	11927.0	states					awake
 7603.8144	2591.8720000000003	epochs					
-9259.1704	-9259.1704	trials	1.0	0.0	0.0	run_right	
 10196.9664	2608.3328	epochs					
 12806.3232	1155.1743999999999	epochs					
 13962.5216	1785.3696	epochs					
@@ -143,4 +142,3 @@ onset	duration	nwb_table	error_run	stim_run	both_visit	condition	label
 25204.0	271.0	states					nrem
 25475.0	5.0	states					quiet
 28662.5024	1537.177599999999	epochs					
-28907.556	-28907.556	trials	1.0	0.0	0.0	run_left	
