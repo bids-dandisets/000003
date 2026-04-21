@@ -1,19 +1,19 @@
 {
-    "units": {
-        "LongName": "Units",
-        "Description": "Physical unit of the value represented in this channel, for example, V for Volt, or fT/cm for femto Tesla per centimeter (see Units)."
-    },
     "type": {
         "LongName": "Type",
         "Description": "Type of channel; MUST use the channel types listed below. Note that the type MUST be in upper-case."
     },
-    "name": {
-        "LongName": "Channel name",
-        "Description": "Label of the channel."
+    "units": {
+        "LongName": "Units",
+        "Description": "Physical unit of the value represented in this channel, for example, V for Volt, or fT/cm for femto Tesla per centimeter (see Units)."
     },
     "sampling_frequency": {
         "LongName": "Sampling frequency",
         "Description": "Sampling rate of the channel in Hz."
+    },
+    "name": {
+        "LongName": "Channel name",
+        "Description": "Label of the channel."
     },
     "electrode_name": {
         "LongName": "Electrode name",
