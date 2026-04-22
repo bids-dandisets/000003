@@ -3,14 +3,6 @@
         "LongName": "Sampling frequency",
         "Description": "Sampling rate of the channel in Hz."
     },
-    "units": {
-        "LongName": "Units",
-        "Description": "Physical unit of the value represented in this channel, for example, V for Volt, or fT/cm for femto Tesla per centimeter (see Units)."
-    },
-    "type": {
-        "LongName": "Type",
-        "Description": "Type of channel; MUST use the channel types listed below. Note that the type MUST be in upper-case."
-    },
     "stream_id": {
         "LongName": "Stream ID",
         "Description": "Data stream of the recording the signal."
@@ -23,8 +15,16 @@
         "LongName": "Gain",
         "Description": "Amplification factor applied from signal detection at the electrode to the signal stored in the data file. If no gain factor is provided it is assumed to be 1."
     },
+    "type": {
+        "LongName": "Type",
+        "Description": "Type of channel; MUST use the channel types listed below. Note that the type MUST be in upper-case."
+    },
     "name": {
         "LongName": "Channel name",
         "Description": "Label of the channel."
+    },
+    "units": {
+        "LongName": "Units",
+        "Description": "Physical unit of the value represented in this channel, for example, V for Volt, or fT/cm for femto Tesla per centimeter (see Units)."
     }
 }
